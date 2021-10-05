@@ -6,7 +6,7 @@
 - Se implementan las tags para dar estructura de Web Semantica.
 - Se utiliza CSS para agregarle estilos a la página. 
 
-#### Codigos utilizados:
+#### Lenguajes utilizados:
 
 - HTML 5
 - CSS
